@@ -1,0 +1,17 @@
+
+  #calculator {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+
+  input {
+    width: 100%;
+    font-size: 20px;
+    margin: 5px 0;
+  }
+
+  #result {
+    font-size: 20px;
+    font-weight: bold;
+  }
